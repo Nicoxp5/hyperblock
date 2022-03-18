@@ -1,2 +1,2 @@
 # hyperblock
-Un blog increible para el curso de git y github de platz
+Un blog increible para el curso de git y github de platzi
