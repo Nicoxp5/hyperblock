@@ -2,6 +2,12 @@ Esta es la hitoria de Freddy Vega
 
 Freddy Vega es el admin uwu 
 
+<<<<<<< HEAD
 Nicolas Camargo es un papasito y colabroa en lo que ellos estan trabajando 
 
 Manana nos enfocaremos en su vida lavoral 
+=======
+Nicolas camargo tiene 18 años y nacio de internet :3 uwu
+
+manana nos enfocaremos en su vida lavoral 
+>>>>>>> 11b774beb80cff1e87af0bd305ebde512dab200c
